@@ -22,6 +22,6 @@ int main () {
 	Book b2("The Hobbit",2);
 	
 	cout<<b1.getId()<<" - "<<b1.getTitle()<<endl;
-	cout<<b2.getId()<<b2.getId()<<" - "<<b2.getTitle()<<endl;
+	cout<<b2.getId()<<" - "<<b2.getTitle()<<endl;
 	return 0;
 }
